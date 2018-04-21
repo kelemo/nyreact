@@ -1,0 +1,23 @@
+{
+  "name": "nyreact",
+  "version": "1.0.0",
+  "description": "nytreact",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelemo/nyreact.git"
+  },
+  "author": "K.E.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelemo/nyreact/issues"
+  },
+  "homepage": "https://github.com/kelemo/nyreact#readme"
+}
